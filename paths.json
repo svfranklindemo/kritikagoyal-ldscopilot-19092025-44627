@@ -1,7 +1,19 @@
 {
-  "mappings": [
-    "/content/pbakliwal/eds-crosswalk-source/:/",
-    "/content/pbakliwal/eds-crosswalk-source/metadata.json:/metadata.json",
-    "/content/pbakliwal/eds-crosswalk-source/redirects.json:/redirects.json"
-  ]
+    "mappings": [
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/:/",
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/configuration:/.helix/config.json",
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/metadata:/metadata.json",
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/configs:/configs.json",
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/configs-stage:/configs-stage.json",
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/configs-dev:/configs-dev.json",
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/redirects:/redirects.json",
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/placeholders:/placeholders.json",
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/products/recommended-products:/products/recommended-products.json",
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/kritikagoyal/78ffcbd2-68ba-41a9-8005-e1d698143bbc",
+      "/content/dam/citisignal/images/products/"
+    ]
 }
